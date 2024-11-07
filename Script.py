@@ -252,10 +252,11 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CAPTION = """<b><a href="https://t.me/avengerdoomsday1">{file_caption}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/avengerdoomsday1>[7𝑥 𝑆𝑢𝑝𝑝𝑜𝑟𝑡]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b>🏷 Title</b>: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+🍿 Title: {title}
+🎃 Genres: {genres}
+📆 Year: {release_date}
+⭐ Rating: {rating} / 10</b>
+"""
 📀 RunTime: {runtime} Minutes
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
