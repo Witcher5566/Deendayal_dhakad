@@ -257,7 +257,6 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 📆 Year: {release_date}
 ⭐ Rating: {rating} / 10</b>
 """
-📀 RunTime: {runtime} Minutes
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 Requested by : {message.from_user.mention}</b>"""
